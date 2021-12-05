@@ -1,0 +1,285 @@
+19:02:52.811 [main] DEBUG com.solvd.bankingandinsurance.Main - Application Starting
+19:02:52.842 [main] DEBUG com.solvd.bankingandinsurance.bankingservice.CheckingAccount - DEPOSIT
+19:02:52.847 [main] DEBUG com.solvd.bankingandinsurance.utilities.LinkedList - Node is  [  FullName :  Last Name : Shoemaker First Name : Nick Middle Name : Walter Address : Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ Tax ID: 652156 Gender : Male Date of Birth : 8/30/1960 Job Title :Personal Banker Employee ID : 068554 Date Hired : 1/1/1970 Company Email Address : Nick@BankingEmail.Com Phone Extension : 5487
+
+
+19:02:52.847 [main] DEBUG com.solvd.bankingandinsurance.utilities.LinkedList - Node is  [  FullName :  Last Name : Lawson First Name : Michelle Middle Name : Sara Address : Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ Tax ID: 652156 Gender : Female Date of Birth : 8/30/1960 Job Title :Personal Banker Employee ID : 068554 Date Hired : 1/1/1970 Company Email Address : Michelle@BankingEmail.Com Phone Extension : 5632
+
+
+19:02:52.847 [main] DEBUG com.solvd.bankingandinsurance.utilities.LinkedList - Node is  [  FullName :  Last Name : Powers First Name : Tyson Middle Name : Ryan Address : Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ Tax ID: 652156 Gender : Male Date of Birth : 8/30/1960 Job Title :Personal Banker Employee ID : 068554 Date Hired : 1/1/1970 Company Email Address : Tyson@BankingEmail.Com Phone Extension : 5478
+
+
+19:02:52.848 [main] DEBUG com.solvd.bankingandinsurance.utilities.LinkedList - Node is  [  FullName :  Last Name : Smith First Name : Sam Middle Name : Walter Address : Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ Tax ID: 652156 Gender : Female Date of Birth : 8/30/1960 Job Title :Personal Banker Employee ID : 068554 Date Hired : 1/1/1970 Company Email Address : Sam@BankingEmail.Com Phone Extension : 1254
+
+
+19:02:52.848 [main] DEBUG com.solvd.bankingandinsurance.Main - null Wants to know the requirments to get a personal loan to purchase a house.
+19:02:52.848 [main] DEBUG com.solvd.bankingandinsurance.Main -  Last Name : Smith First Name : Sam Middle Name : Walter presents information to clientand asks if client wishes to give their finicial information to check if they qualify
+19:02:52.848 [main] DEBUG com.solvd.bankingandinsurance.Main - null presents financial  information to Personal Banker.
+19:02:52.848 [main] DEBUG com.solvd.bankingandinsurance.Main -  Last Name : Smith First Name : Sam Middle Name : Walter collects the information and inputs it into the loan network
+19:02:52.850 [main] ERROR com.solvd.bankingandinsurance.utilities.Credit.CreditRunner - Client has bad credit
+19:02:52.851 [main] DEBUG com.solvd.bankingandinsurance.utilities.Credit.CreditRunner - BAD
+19:02:52.851 [main] DEBUG com.solvd.bankingandinsurance.Main -  Sam and his manager look over loan and discus loan stipulations and come to an agreement on terms of the loan and Sam returns to Fred.
+19:02:52.851 [main] DEBUG com.solvd.bankingandinsurance.Main -  Last Name : Smith First Name : Sam Middle Name : Walter presents terms of loan to Fred.
+19:02:52.851 [main] DEBUG com.solvd.bankingandinsurance.Main - null Accepts the terms of the Loan
+19:02:52.851 [main] ERROR com.solvd.bankingandinsurance.bankingservice.CheckingAccount - Insufficent Funds.
+19:02:52.851 [main] ERROR com.solvd.bankingandinsurance.Main - Down Payment less than 10%.
+19:02:52.852 [main] DEBUG com.solvd.bankingandinsurance.Main - Florida
+19:02:52.852 [main] DEBUG com.solvd.bankingandinsurance.Main - New York
+19:02:52.853 [main] DEBUG com.solvd.bankingandinsurance.Main - New York
+19:02:52.853 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1313, streetName=Mocking Bird Ln, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+
+19:02:52.854 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+19:02:52.855 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+19:02:52.855 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1, streetName=Main Street, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+19:02:52.856 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+19:02:52.856 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+19:02:52.856 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1, streetName=Main Street, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+19:02:52.856 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1313, streetName=Mocking Bird Ln, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+19:02:52.856 [main] DEBUG com.solvd.bankingandinsurance.Main - Value of source list: [BankingClient [client=Client [fullName= Last Name : Smith First Name : Michael Middle Name : Robert, address=Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+, taxIdNumber=9865875, gender=Male, dateOfBirth=1/1/1970] 
+, checkingAccount=BankAccount [balance=30000, previousTransaction=30000, customerName=null, customerId=0], savingsAccount=BankAccount [balance=0, previousTransaction=0, customerName=null, customerId=0], personalLoanAccount=null, creditScore=150] 
+]
+19:02:52.857 [main] DEBUG com.solvd.bankingandinsurance.Main - Value of destination list: [BankingClient [client=Client [fullName= Last Name : Smith First Name : Michael Middle Name : Robert, address=Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+, taxIdNumber=9865875, gender=Male, dateOfBirth=1/1/1970] 
+, checkingAccount=BankAccount [balance=30000, previousTransaction=30000, customerName=null, customerId=0], savingsAccount=BankAccount [balance=0, previousTransaction=0, customerName=null, customerId=0], personalLoanAccount=null, creditScore=150] 
+]
+19:02:52.858 [main] DEBUG com.solvd.bankingandinsurance.Main - [Client [fullName= Last Name : Smith First Name : Fred Middle Name : William, address=Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+, taxIdNumber=98568745, gender=Male, dateOfBirth=8/30/1960] 
+, Client [fullName= Last Name : Smith First Name : Michael Middle Name : Robert, address=Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+, taxIdNumber=9865875, gender=Male, dateOfBirth=1/1/1970] 
+]
+19:02:52.859 [main] DEBUG com.solvd.bankingandinsurance.Main - Application Stopping
+20:10:13.938 [main] DEBUG com.solvd.bankingandinsurance.Main - Application Starting
+20:10:13.965 [main] DEBUG com.solvd.bankingandinsurance.bankingservice.CheckingAccount - DEPOSIT
+20:10:13.970 [main] DEBUG com.solvd.bankingandinsurance.utilities.LinkedList - Node is  [  FullName :  Last Name : Shoemaker First Name : Nick Middle Name : Walter Address : Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ Tax ID: 652156 Gender : Male Date of Birth : 8/30/1960 Job Title :Personal Banker Employee ID : 068554 Date Hired : 1/1/1970 Company Email Address : Nick@BankingEmail.Com Phone Extension : 5487
+
+
+20:10:13.970 [main] DEBUG com.solvd.bankingandinsurance.utilities.LinkedList - Node is  [  FullName :  Last Name : Lawson First Name : Michelle Middle Name : Sara Address : Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ Tax ID: 652156 Gender : Female Date of Birth : 8/30/1960 Job Title :Personal Banker Employee ID : 068554 Date Hired : 1/1/1970 Company Email Address : Michelle@BankingEmail.Com Phone Extension : 5632
+
+
+20:10:13.970 [main] DEBUG com.solvd.bankingandinsurance.utilities.LinkedList - Node is  [  FullName :  Last Name : Powers First Name : Tyson Middle Name : Ryan Address : Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ Tax ID: 652156 Gender : Male Date of Birth : 8/30/1960 Job Title :Personal Banker Employee ID : 068554 Date Hired : 1/1/1970 Company Email Address : Tyson@BankingEmail.Com Phone Extension : 5478
+
+
+20:10:13.971 [main] DEBUG com.solvd.bankingandinsurance.utilities.LinkedList - Node is  [  FullName :  Last Name : Smith First Name : Sam Middle Name : Walter Address : Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ Tax ID: 652156 Gender : Female Date of Birth : 8/30/1960 Job Title :Personal Banker Employee ID : 068554 Date Hired : 1/1/1970 Company Email Address : Sam@BankingEmail.Com Phone Extension : 1254
+
+
+20:10:13.971 [main] DEBUG com.solvd.bankingandinsurance.Main - null Wants to know the requirments to get a personal loan to purchase a house.
+20:10:13.971 [main] DEBUG com.solvd.bankingandinsurance.Main -  Last Name : Smith First Name : Sam Middle Name : Walter presents information to clientand asks if client wishes to give their finicial information to check if they qualify
+20:10:13.971 [main] DEBUG com.solvd.bankingandinsurance.Main - null presents financial  information to Personal Banker.
+20:10:13.971 [main] DEBUG com.solvd.bankingandinsurance.Main -  Last Name : Smith First Name : Sam Middle Name : Walter collects the information and inputs it into the loan network
+20:10:13.973 [main] ERROR com.solvd.bankingandinsurance.utilities.Credit.CreditRunner - Client has bad credit
+20:10:13.974 [main] DEBUG com.solvd.bankingandinsurance.utilities.Credit.CreditRunner - BAD
+20:10:13.974 [main] DEBUG com.solvd.bankingandinsurance.Main -  Sam and his manager look over loan and discus loan stipulations and come to an agreement on terms of the loan and Sam returns to Fred.
+20:10:13.974 [main] DEBUG com.solvd.bankingandinsurance.Main -  Last Name : Smith First Name : Sam Middle Name : Walter presents terms of loan to Fred.
+20:10:13.974 [main] DEBUG com.solvd.bankingandinsurance.Main - null Accepts the terms of the Loan
+20:10:13.974 [main] ERROR com.solvd.bankingandinsurance.bankingservice.CheckingAccount - Insufficent Funds.
+20:10:13.974 [main] ERROR com.solvd.bankingandinsurance.Main - Down Payment less than 10%.
+20:10:13.975 [main] DEBUG com.solvd.bankingandinsurance.Main - Florida
+20:10:13.975 [main] DEBUG com.solvd.bankingandinsurance.Main - New York
+20:10:13.975 [main] DEBUG com.solvd.bankingandinsurance.Main - New York
+20:10:13.976 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1313, streetName=Mocking Bird Ln, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+
+20:10:13.976 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:13.977 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:13.977 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1, streetName=Main Street, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:13.977 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:13.977 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:13.978 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1, streetName=Main Street, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:13.978 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1313, streetName=Mocking Bird Ln, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:13.978 [main] DEBUG com.solvd.bankingandinsurance.Main - Value of source list: [BankingClient [client=Client [fullName= Last Name : Smith First Name : Michael Middle Name : Robert, address=Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+, taxIdNumber=9865875, gender=Male, dateOfBirth=1/1/1970] 
+, checkingAccount=BankAccount [balance=30000, previousTransaction=30000, customerName=null, customerId=0], savingsAccount=BankAccount [balance=0, previousTransaction=0, customerName=null, customerId=0], personalLoanAccount=null, creditScore=150] 
+]
+20:10:13.979 [main] DEBUG com.solvd.bankingandinsurance.Main - Value of destination list: [BankingClient [client=Client [fullName= Last Name : Smith First Name : Michael Middle Name : Robert, address=Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+, taxIdNumber=9865875, gender=Male, dateOfBirth=1/1/1970] 
+, checkingAccount=BankAccount [balance=30000, previousTransaction=30000, customerName=null, customerId=0], savingsAccount=BankAccount [balance=0, previousTransaction=0, customerName=null, customerId=0], personalLoanAccount=null, creditScore=150] 
+]
+20:10:13.979 [main] DEBUG com.solvd.bankingandinsurance.Main - [Client [fullName= Last Name : Smith First Name : Fred Middle Name : William, address=Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+, taxIdNumber=98568745, gender=Male, dateOfBirth=8/30/1960] 
+, Client [fullName= Last Name : Smith First Name : Michael Middle Name : Robert, address=Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+, taxIdNumber=9865875, gender=Male, dateOfBirth=1/1/1970] 
+]
+20:10:13.981 [main] DEBUG com.solvd.bankingandinsurance.Main - Application Stopping
+20:10:13.982 [main] DEBUG com.solvd.bankingandinsurance.Main - Gender Not Specified
+20:10:13.982 [main] DEBUG com.solvd.bankingandinsurance.Main - true
+20:10:52.618 [main] DEBUG com.solvd.bankingandinsurance.Main - Application Starting
+20:10:52.644 [main] DEBUG com.solvd.bankingandinsurance.bankingservice.CheckingAccount - DEPOSIT
+20:10:52.648 [main] DEBUG com.solvd.bankingandinsurance.utilities.LinkedList - Node is  [  FullName :  Last Name : Shoemaker First Name : Nick Middle Name : Walter Address : Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ Tax ID: 652156 Gender : Male Date of Birth : 8/30/1960 Job Title :Personal Banker Employee ID : 068554 Date Hired : 1/1/1970 Company Email Address : Nick@BankingEmail.Com Phone Extension : 5487
+
+
+20:10:52.649 [main] DEBUG com.solvd.bankingandinsurance.utilities.LinkedList - Node is  [  FullName :  Last Name : Lawson First Name : Michelle Middle Name : Sara Address : Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ Tax ID: 652156 Gender : Female Date of Birth : 8/30/1960 Job Title :Personal Banker Employee ID : 068554 Date Hired : 1/1/1970 Company Email Address : Michelle@BankingEmail.Com Phone Extension : 5632
+
+
+20:10:52.649 [main] DEBUG com.solvd.bankingandinsurance.utilities.LinkedList - Node is  [  FullName :  Last Name : Powers First Name : Tyson Middle Name : Ryan Address : Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ Tax ID: 652156 Gender : Male Date of Birth : 8/30/1960 Job Title :Personal Banker Employee ID : 068554 Date Hired : 1/1/1970 Company Email Address : Tyson@BankingEmail.Com Phone Extension : 5478
+
+
+20:10:52.650 [main] DEBUG com.solvd.bankingandinsurance.utilities.LinkedList - Node is  [  FullName :  Last Name : Smith First Name : Sam Middle Name : Walter Address : Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ Tax ID: 652156 Gender : Female Date of Birth : 8/30/1960 Job Title :Personal Banker Employee ID : 068554 Date Hired : 1/1/1970 Company Email Address : Sam@BankingEmail.Com Phone Extension : 1254
+
+
+20:10:52.650 [main] DEBUG com.solvd.bankingandinsurance.Main - null Wants to know the requirments to get a personal loan to purchase a house.
+20:10:52.650 [main] DEBUG com.solvd.bankingandinsurance.Main -  Last Name : Smith First Name : Sam Middle Name : Walter presents information to clientand asks if client wishes to give their finicial information to check if they qualify
+20:10:52.650 [main] DEBUG com.solvd.bankingandinsurance.Main - null presents financial  information to Personal Banker.
+20:10:52.650 [main] DEBUG com.solvd.bankingandinsurance.Main -  Last Name : Smith First Name : Sam Middle Name : Walter collects the information and inputs it into the loan network
+20:10:52.652 [main] ERROR com.solvd.bankingandinsurance.utilities.Credit.CreditRunner - Client has bad credit
+20:10:52.652 [main] DEBUG com.solvd.bankingandinsurance.utilities.Credit.CreditRunner - BAD
+20:10:52.652 [main] DEBUG com.solvd.bankingandinsurance.Main -  Sam and his manager look over loan and discus loan stipulations and come to an agreement on terms of the loan and Sam returns to Fred.
+20:10:52.652 [main] DEBUG com.solvd.bankingandinsurance.Main -  Last Name : Smith First Name : Sam Middle Name : Walter presents terms of loan to Fred.
+20:10:52.652 [main] DEBUG com.solvd.bankingandinsurance.Main - null Accepts the terms of the Loan
+20:10:52.653 [main] ERROR com.solvd.bankingandinsurance.bankingservice.CheckingAccount - Insufficent Funds.
+20:10:52.653 [main] ERROR com.solvd.bankingandinsurance.Main - Down Payment less than 10%.
+20:10:52.653 [main] DEBUG com.solvd.bankingandinsurance.Main - Florida
+20:10:52.654 [main] DEBUG com.solvd.bankingandinsurance.Main - New York
+20:10:52.654 [main] DEBUG com.solvd.bankingandinsurance.Main - New York
+20:10:52.654 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1313, streetName=Mocking Bird Ln, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+
+20:10:52.655 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:52.655 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:52.655 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1, streetName=Main Street, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:52.656 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:52.656 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:52.656 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1, streetName=Main Street, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:52.656 [main] DEBUG com.solvd.bankingandinsurance.Main - Address [buildingNum=1313, streetName=Mocking Bird Ln, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+ 
+20:10:52.656 [main] DEBUG com.solvd.bankingandinsurance.Main - Value of source list: [BankingClient [client=Client [fullName= Last Name : Smith First Name : Michael Middle Name : Robert, address=Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+, taxIdNumber=9865875, gender=Male, dateOfBirth=1/1/1970] 
+, checkingAccount=BankAccount [balance=30000, previousTransaction=30000, customerName=null, customerId=0], savingsAccount=BankAccount [balance=0, previousTransaction=0, customerName=null, customerId=0], personalLoanAccount=null, creditScore=150] 
+]
+20:10:52.657 [main] DEBUG com.solvd.bankingandinsurance.Main - Value of destination list: [BankingClient [client=Client [fullName= Last Name : Smith First Name : Michael Middle Name : Robert, address=Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+, taxIdNumber=9865875, gender=Male, dateOfBirth=1/1/1970] 
+, checkingAccount=BankAccount [balance=30000, previousTransaction=30000, customerName=null, customerId=0], savingsAccount=BankAccount [balance=0, previousTransaction=0, customerName=null, customerId=0], personalLoanAccount=null, creditScore=150] 
+]
+20:10:52.657 [main] DEBUG com.solvd.bankingandinsurance.Main - [Client [fullName= Last Name : Smith First Name : Fred Middle Name : William, address=Address [buildingNum=1500, streetName=Brooklyn Way, city=Manhattan Zip Code : 
+, state=New York, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+, taxIdNumber=98568745, gender=Male, dateOfBirth=8/30/1960] 
+, Client [fullName= Last Name : Smith First Name : Michael Middle Name : Robert, address=Address [buildingNum=1, streetName=Main Street, city=Christmas Zip Code : 
+, state=Florida, country= Country Name : United States of America Country Code : N/A
+, continent=NORTH_AMERICA] 
+, taxIdNumber=9865875, gender=Male, dateOfBirth=1/1/1970] 
+]
+20:10:52.659 [main] DEBUG com.solvd.bankingandinsurance.Main - Application Stopping
+20:10:52.660 [main] DEBUG com.solvd.bankingandinsurance.Main - Gender Not Specified
